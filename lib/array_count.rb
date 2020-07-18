@@ -12,4 +12,5 @@ def count_empty_strings(array)
     if string.is_a? String
       new_array << string
   end
+  new_array
 end
